@@ -1,0 +1,275 @@
+
+
+
+
+
+.title{
+	text-align: center;
+}
+.title h2{
+	font-size: 30px;
+	font-family: 'font-l', '微軟正黑體', serif, sans-serif;
+	color: #3c3c3c;
+	padding: 50px 0 15px;
+}
+.title .bottom-line{
+	display: block;
+	width: 30px;
+	height: 3px;
+	background-color: #333;
+	margin: auto;
+}
+.title h6{
+	font-size: 12px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #737373;
+	padding: 15px 0 42px;
+}
+/*product*/
+
+.product_top li a{
+	font-size: 16px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #333;
+}
+.product_info h2{
+	font-size: 50px;
+	font-family: 'font-l', '微軟正黑體', serif, sans-serif;
+	color: #333;
+}
+.product_info h5{
+	font-size: 30px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #555;
+}
+.product_info p{
+	font-size: 18px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #555;
+}
+.price_info1{
+	font-size: 25px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #333;
+}
+.price_info2{
+	font-size: 25px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #333;
+}
+.product_info_list ul li{
+	font-size: 15px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #555;
+}
+.sm_pic p{
+	font-size: 15px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #333;
+}
+
+/*footer-list*/
+.footer-list span{
+	font-size: 18px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.footer-list .footer-list-item a{
+	color: #777;
+	font-size: 14px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+
+
+
+@media screen and (max-width:767px){
+
+
+	
+
+	/*============================= product===============================*/
+	.product_top{
+		margin-top: 50px;
+	}
+
+	.product_top li a{
+		padding: 10px 20px;
+	}
+
+		/*footer ================================================================== */
+
+	.footer-list{
+		width: 100%;
+		margin-top: 70px;
+	}
+	.footer-list-item{
+		width: 100%;
+		text-align: center;
+	}
+	.footer-list-item li{
+		padding: 10px 0;
+	}
+	.footer-list-item i{
+		padding-left: 20px;
+	}
+	.footer-list-item ul{
+		margin-top: 20px;
+	}
+	.footer-list-item span{
+		display: block;
+		margin-top: 50px;
+	}
+
+
+}
+
+
+/*Desktop computer*/
+@media screen and (min-width:768px){
+
+	
+
+
+	
+
+
+
+	/*============================= product===============================*/
+	.product_top{
+		/*margin-top: 80px;*/
+		padding-top: 80px;
+	}
+	.product_top li a{
+		padding: 15px 20px;
+	}
+
+	
+	/*footer ================================================================== */
+
+	.footer-list{
+		width: 100%;
+		margin-top: 70px;
+	}
+	.footer-list-item{
+		width: 100%;
+		text-align: center;
+	}
+	.footer-list-item li{
+		padding: 10px 0;
+	}
+	.footer-list-item i{
+		padding-left: 20px;
+	}
+	.footer-list-item ul{
+		margin-top: 20px;
+	}
+
+
+
+
+}
+
+
+
+
+
+
+/*共用*/
+
+
+/*============================= product===============================*/
+.product{
+	width: 100%;
+	margin: auto;
+}
+.product_top{
+	width: 100%;
+}
+.product_top ul{
+	margin: 0;
+}
+.product_top li{
+	display: inline-block;
+	float: right;
+}
+.product_top li a{
+	display: inline-block;
+	text-align: right;
+}
+.product_top li a i{
+	padding-right: 5px;
+}
+.product .big_pic img{
+	width: 100%;
+}
+.product_info{
+	margin-top: 70px;
+}
+.product_info h2{
+	padding: 20px;
+}
+.product_info h5{
+	padding: 20px;
+}
+.product_info p{
+	padding: 20px;
+}
+.product_info_list ul{
+	margin-bottom: 50px;
+}
+.product_info_list ul li{
+	margin: 10px 0px 10px 40px;
+	list-style-type: square;
+}
+.price_info1{
+	padding: 20px 0px 20px 20px;
+}
+.price_info2{
+	padding: 20px 0px;
+}
+.big_pic img{
+	width: 100%;
+}
+.sm_pic a{
+	display: inline-block;
+	margin: auto;
+	width: 25%;
+	text-align: center;	
+}
+.sm_pic p{
+	padding-bottom: 10px;
+}
+
+.sm_pic img{
+	width: 100%;
+}
+.sm_pic a:nth-child(1){border: 5px solid #968E7E;}
+.sm_pic a:nth-child(2){border: 5px solid #7D8F77;}
+.sm_pic a:nth-child(3){border: 5px solid #333;}
+
+.choses select{
+	font-size: 12px;
+	margin-top: 25px;
+	margin-left: 20px;
+	background-color: #333;
+	color: #fff;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

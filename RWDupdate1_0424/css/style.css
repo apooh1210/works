@@ -1,0 +1,1232 @@
+
+
+
+
+
+
+
+.title{
+	text-align: center;
+}
+.title h2{
+	font-size: 30px;
+	font-family: 'font-l', '微軟正黑體', serif, sans-serif;
+	color: #3c3c3c;
+	padding: 50px 0 15px;
+}
+.title .bottom-line{
+	display: block;
+	width: 30px;
+	height: 3px;
+	background-color: #333;
+	margin: auto;
+}
+.title h6{
+	font-size: 12px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #737373;
+	padding: 15px 0 42px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*pic-info*/
+.pic-info p{
+	font-size: 25px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	
+}
+/*product list*/
+.games_list .info p{
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	font-size: 16px;
+	color: #777;
+	line-height: 25px;
+}
+.games_list .info ul li{
+	font-size: 13px;
+	color: #777;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.games_list i{
+	font-size: 13px;
+	color: #777;
+}
+/*Nav-list*/
+.box h3{
+	color: #333;
+	font-size: 13px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.menu-title a{
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	font-size: 16px;
+	color: #111;
+}
+
+
+/*banner-item-list*/
+
+
+.banner-item-list h3{
+	font-family: 'font-l', '微軟正黑體', serif, sans-serif;
+	font-size: 25px;
+	color: #eee;
+	border-bottom: 1px dotted #ddd;
+}
+.banner-item-list p{
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	font-size: 18px;
+	color: #ddd;
+}
+
+
+
+
+
+
+/*iconlist*/
+
+
+.vrtitle h2{
+	font-size: 40px;
+	font-family: 'font-l', '微軟正黑體', serif, sans-serif;
+	color: #fff;
+	padding-top: 120px;
+	padding-bottom: 25px;
+}
+.vrboxgroup h3{
+	font-size: 23px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.vrtitle span{
+	font-size: 16px;
+	color: #fff;
+	opacity: 0.9;
+	text-shadow: 0 0 3px #000;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	line-height: 30px;
+	letter-spacing: 2px;
+}
+.vrboxgroup p{
+	font-size: 13px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.vrboxgroup i{
+	font-size: 50px;
+}
+
+
+/*icon-list*/
+.icon-list h3{
+	color: #333;
+	font-size: 23px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.icon-list p{
+	color: #333;
+	font-size: 13px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.icon-list i{
+	color: #333;
+	font-size: 50px;
+}
+
+/*news-list*/
+.news-list a{
+	font-size: 14px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+
+.social-list ul li a{
+	font-size: 18px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+
+/*service*/
+	.service h5{
+		font-size: 18px;
+		font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	}
+	.service_info tr{
+		font-size: 14px;
+		font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	}
+
+/*footer-list*/
+.footer-list span{
+	font-size: 18px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.footer-list .footer-list-item a{
+	color: #777;
+	font-size: 14px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+/*webmap*/
+
+/*.webmap .mapinfo a{
+	color: #777;
+	font-size: 14px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}*/
+/*service*/
+.service_info{
+	letter-spacing: 2px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+
+/*say*/
+.saygroup{
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+/*map*/
+.map_info h5{
+	color: #333;
+	font-size: 20px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.map_info span{
+	color: #555;
+	font-size: 14px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.map_info p{
+	color: #555;
+	font-size: 14px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+
+
+
+
+/*=============================shared=============================*/
+
+
+.row{
+	margin-right: -15px;
+	margin-left: -15px;
+}
+
+
+
+
+
+
+
+
+/*mobile phone*/
+@media screen and (max-width:767px){
+
+
+
+	.go-top {
+		position: fixed;
+		bottom: 2em;
+		right: 2em;
+		text-decoration: none;
+		color: #fff;
+		background-color: rgba(0, 0, 0, 0.3);
+		font-size: 12px;
+		padding: 1em;
+		display: none;
+	}
+
+	.go-top:hover {
+		background-color: rgba(0, 0, 0, 0.6);
+	}
+
+
+	
+
+
+	/*============================= Banner ================================*/
+	.banner img{
+		width: 100%;
+		height: auto;
+	}
+	.banner{
+		margin-top: 80px;
+		position: relative;
+	}
+	.pic-info p{
+		display: none;
+	}
+
+
+
+
+
+
+	.banner-item h3{
+		line-height: 1em;
+		color: #333;
+	}
+	.banner-item p{
+		display: none;
+	}
+	.banner-list{
+		width: 100%;
+	}
+	.banner-item-list{
+		width: 100%;
+		margin-top: 20vh;
+	}
+	.banner-item a{
+		display: block;
+		width: 100%;
+		height: 300px;
+		text-align: center;
+		opacity: 1;
+		transition: 1s;
+	}
+	.box1{
+		background: url(../images/photo_list_1.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box2{
+		background: url(../images/photo_list_2.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box3{
+		background: url(../images/photo_list_3.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box4{
+		background: url(../images/photo_list_4.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box5{
+		background: url(../images/photo_list_5.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box6{
+		background: url(../images/photo_list_1.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+
+
+
+
+
+
+
+	/*============================= Product List================================*/
+
+
+
+	.games_list{
+		width: 100%;
+	}
+	.games_list .pic{
+		width: 100%;
+		
+	}
+	.games_list .pic img{
+		width: 100%;
+	}
+	.games_list p{
+		display: block;
+		min-height: 100px;
+		padding: 20px;
+	}
+	.games_list li{
+		padding: 7px 20px;
+	}
+	.games_list i{
+		float: right;
+	}
+	.games_list a{
+		display: block;
+		width: 100%;
+		min-height: 250px;
+		margin-bottom: 20px;
+		border-bottom: 1px dotted #ccc;
+	}
+
+
+
+	/*vr360===============================================================*/
+	.vr360{
+		width: 100%;
+		background: url(../images/index_1.png) no-repeat;
+		min-height: 1200px;
+		background-size: cover;
+		text-align: center;
+		margin: auto;
+		background-attachment: fixed;
+	}
+	.vr360 .icon-group{
+		margin: auto;
+	}
+
+	.vr360 .vrboxgroup{
+		width: 100px;
+		display: inline-block;
+		margin: 70px;
+		vertical-align: middle;
+	}
+	.vrboxgroup a{
+		display: inline-block;
+		text-decoration: none;
+		line-height: 27px;
+		color: #fff;
+	}
+
+		/*whatpeoplesay===============================================================*/
+
+	.saygroup{
+		width: 100%;
+		letter-spacing: 5px;
+		line-height: 2em;
+	}
+	.say{
+		margin: 30px auto;
+		border: 2px solid #ccc;
+		padding: 15px 50px 0;
+	}
+	.content p{
+		padding: 0 0 20px;
+	}
+	.info img{
+		display: inline-block;
+	}
+	.info h5{
+		display: inline-block;
+		vertical-align: top;
+	}
+	.say:before{
+		content: url(../images/de_0.png);
+		display: block;
+		margin: -47px 33% 0;
+	}
+
+
+
+
+
+
+
+
+	/*icon-list ==================================================================*/
+
+	.icon-list{
+		width: 100%;
+		text-align: center;
+	}
+	.icon-list li{
+		display: inline;
+		margin-top: 60px;
+	}
+	.icon-list li a{
+		display: inline-block;
+	}
+	.icon-list li a h3{
+		padding: 10px 0;
+	}
+
+
+	/*news-list ==================================================================*/
+
+
+	.news-list{
+		width: 100%;
+	}
+	.news-list ul{
+		width: 100%;
+		margin: 0;
+	}
+	.news-list li{
+		padding: 20px 50px;
+		border-bottom: 1px dotted #ccc;
+	}
+	.news-list li a{
+		display: block;
+		color: #777;
+	}
+	.news-list li span:nth-child(1) a{
+		color: #fff;
+	}
+	.news-list li span:nth-child(2){
+		padding-left: 50px;
+	}
+	.news-list li span:nth-child(3){
+		padding-top: 10px;
+	}
+	.news-list .s-title a{
+		width: 100%;
+		height: 20px;
+		background-color: #555;
+		padding: 10px;
+	}
+
+
+
+	/*service==================================================================*/
+	.service{
+		width: 100%;
+	}
+	.service table{
+		margin: auto;
+	}
+	.service_info{
+		text-align: center;
+	}
+	.info1 h5{
+		padding: 50px;
+	}
+	.info2 h5{
+		padding: 50px 0 20px 0;
+	}
+	.service_info a{
+		display: block;
+	}
+
+	.service_info input{
+		margin: 20px 5px;
+	}
+	.service_sign_in a{
+		display: inline-block;
+		text-decoration: none;
+		color: #fff;
+		background-color: #333;
+		padding: 7px 10px;
+		font-size: 14px;
+		color: #fff;
+		line-height: 3em;
+	}
+	.service_sign_in a:hover{
+		box-shadow: 0 0 10px #333;
+	}
+	.service_sign_in span{
+		vertical-align: 2px;
+	}
+
+
+
+
+
+	/*social-list ================================================================== */
+
+	.social-list{
+		width: 100%;
+	}
+	.social-list ul{
+		margin: 50px auto;
+	}
+	.social-list ul li{
+		display: inline;
+	}
+	.social-list ul li a{
+		width: 100%;
+		display: inline-block;
+		color: #777;
+		position: relative;
+		margin: 10px;
+		border-bottom: 1px dotted #ccc;
+		padding-bottom: 30px;
+	}
+	.social-list ul li span{
+		display: inline-block;
+		position: absolute;
+		top: 37%;
+		left: 53%;
+		transform: translateY(-37%, -53%);
+	}
+	.social-list img{
+		border-radius: 20px;
+	}
+		/*map ==================================================================*/
+	.google_map{
+		display: none;
+	}
+	.map_info{
+		width: 100%;
+	}
+	.map_info h5{
+		margin-bottom: 30px;
+	}
+	.map_info span{
+		display: inline-block;
+		margin-bottom: 30px;
+		line-height: 2em;
+	}
+	.map_info p{
+		line-height: 2em;
+		margin-bottom: 30px;
+	}
+
+
+
+	/*footer ================================================================== */
+
+	.footer-list{
+		width: 100%;
+		margin-top: 70px;
+	}
+	.footer-list-item{
+		width: 100%;
+		text-align: center;
+	}
+	.footer-list-item li{
+		padding: 10px 0;
+	}
+	.footer-list-item i{
+		padding-left: 20px;
+	}
+	.footer-list-item ul{
+		margin-top: 20px;
+	}
+	.footer-list-item span{
+		display: block;
+		margin-top: 50px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+}/*手機*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Desktop computer*/
+@media screen and (min-width:768px){
+	
+
+
+	.go-top {
+		position: fixed;
+		bottom: 2em;
+		right: 2em;
+		text-decoration: none;
+		color: #fff;
+		background-color: rgba(0, 0, 0, 0.3);
+		font-size: 25px;
+		padding: 1em;
+		display: none;
+	}
+
+	.go-top:hover {
+		background-color: rgba(0, 0, 0, 0.6);
+	}
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*============================= Banner ================================*/
+	.banner img{
+		width: 100%;
+		height: auto;
+	}
+	.banner{
+		position: relative;
+	}
+	.pic-info p{
+		position: absolute;
+		top: 50%;
+		left: 150px;
+		color: #ddd;
+		line-height: 2em;
+		padding: 50px;
+		background-color: rgba(0, 0, 0, .5);
+	}
+
+
+
+
+
+/*	@keyframes fade {
+	  0%   { opacity: 0; }
+	  11.11%   { opacity: 1; }
+	  33.33%  { opacity: 1; }
+	  44.44%  { opacity: 0; }
+	  100% { opacity: 0; }
+	}
+	.slideshow img{
+		position: absolute;
+	    left: 0; 
+	    right: 0; 
+		width: 100%;
+	    opacity: 0; 
+	    animation-name: fade;
+	    animation-duration: 9s;
+	    animation-iteration-count: infinite;
+	}
+	.slideshow img:nth-child(1) { animation-delay: 0s; }
+	.slideshow img:nth-child(2) { animation-delay: 3s; }
+	.slideshow img:nth-child(3) { animation-delay: 6s; }*/
+
+
+
+
+
+
+
+
+	/*============================= Banner List================================*/
+	.banner-item-list h3{
+		padding: 10%;
+		margin: 0 10%;
+	}
+	.banner-item-list p{
+		padding: 10%;
+		line-height: 2em;
+		letter-spacing: 5px;
+	}
+
+
+
+
+	.banner-list{
+		width: 100%;
+	}
+	.banner-item-list{
+		width: 100%;
+	}
+	.banner-item a{
+		display: block;
+		width: 100%;
+		height: 400px;
+		text-align: center;
+		background-color: rgba(0, 0, 0, .7);
+		margin-bottom: 30px;
+		opacity: 0;
+		transition: 1s;
+	}
+	.banner-item a:hover{
+		opacity: 1;
+	}
+	.box1{
+		background: url(../images/photo_list_1.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box2{
+		background: url(../images/photo_list_2.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box3{
+		background: url(../images/photo_list_3.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box4{
+		background: url(../images/photo_list_4.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box5{
+		background: url(../images/photo_list_5.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box6{
+		background: url(../images/photo_list_6.png);
+		background-size: cover;
+		background-position: center center;
+	}
+
+
+
+
+
+
+
+
+
+	/*============================= Product List================================*/
+
+
+
+	.games_list{
+		width: 100%;
+	}
+	.games_list .pic{
+		width: 100%;
+	}
+	.games_list .pic img{
+		width: 100%;
+	}
+	.games_list p{
+		display: block;
+		min-height: 100px;
+		padding: 20px;
+	}
+	.games_list li{
+		padding: 7px 20px;
+	}
+	.games_list i{
+		float: right;
+	}
+	.games_list a{
+		display: block;
+		width: 100%;
+		min-height: 250px;
+		margin-bottom: 20px;
+		border-bottom: 1px dotted #ccc;
+	}
+	.games_list a:hover{
+		box-shadow: 0 0 20px #000;
+	}
+
+
+
+	/*vr360===============================================================*/
+	.vr360{
+		width: 100%;
+		background: url(../images/index_1.png) no-repeat;
+		min-height: 600px;
+		background-size: cover;
+		text-align: center;
+		margin: auto;
+		background-attachment: fixed;
+	}
+	.vr360 .icon-group{
+		margin: auto;
+	}
+
+	.vr360 .vrboxgroup{
+		width: 100px;
+		display: inline-block;
+		margin: 70px;
+		vertical-align: middle;
+	}
+	.vrboxgroup a{
+		display: inline-block;
+		text-decoration: none;
+		line-height: 27px;
+		color: #fff;
+	}
+
+	/*.vrbottom p{
+		display: inline-block;
+		color: #fff;
+		font-size: 13px;
+		opacity: 0.7;
+	}
+	.vrbottom .vritalic{
+		font-style: italic;
+		margin-top: 127px;
+	}*/
+
+	/*boxgroup_game===============================================================*/
+	.games{
+		width: 100%;
+		min-height: 1000px;
+		background: url(images/index_2.png) no-repeat;
+		text-align: center;
+		position: relative;
+	}
+
+	.boxgroup_game{
+		margin:auto;
+		width: 800px;
+	}
+	.boxgroup_game img{
+		width: 100%;
+		border-style: none;
+		vertical-align: top;
+	}
+	.gamebox1{
+		float: left;
+		margin: 10px;
+		text-align: center;
+		position: relative;
+		z-index: 99;
+	}
+	.gamebox{
+		float: left;
+		margin: 10px;
+		text-align: center;
+		position: relative;
+		z-index: 88;
+	}
+	.gamebox1 a{
+		display: block;
+		width: 100%;
+		height: 100%;
+		text-decoration: none;
+		position: absolute;
+		top:0;
+		left: 0;
+		z-index: 99;
+	}
+	.gamebox a{
+		display: block;
+		width: 100%;
+		height: 100%;
+		text-decoration: none;
+		position: absolute;
+		top:0;
+		left: 0;
+		z-index: 88;
+	}
+	.boxgroup_game a:hover{
+		box-shadow: 0px 0px 15px #000;
+	}
+	.boxinfo{
+		background-color: rgba(0,0,0,.8);
+		padding: 10px 0;
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		border-top: 2px solid #32c2ce;
+	}
+	.games  a{
+		display: inline-block;
+		text-decoration: none;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+	/*whatpeoplesay===============================================================*/
+
+	.saygroup{
+		max-width: 960px;
+		margin: auto;
+		letter-spacing: 5px;
+		line-height: 2em;
+	}
+	.say{
+		margin: 30px auto;
+		border: 2px dotted #ccc;
+		padding: 15px 50px 0;
+	}
+	.content p{
+		padding: 0 0 20px;
+	}
+	.info img{
+		display: inline-block;
+	}
+	.info h5{
+		display: inline-block;
+		vertical-align: top;
+	}
+	.say:before{
+		content: url(../images/de_0.png);
+		display: block;
+		margin: -47px 45% 0;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*icon-list ==================================================================*/
+
+	.icon-list{
+		width: 100%;
+		text-align: center;
+	}
+	.icon-list li{
+		width: 25%;
+		display: inline;
+	}
+	.icon-list li a{
+		width: 100%;
+		display: inline-block;
+	}
+	.icon-list li a h3{
+		padding: 10px 0;
+	}
+
+
+	/*news-list ==================================================================*/
+
+
+	.news-list{
+		width: 100%;
+	}
+	.news-list ul{
+		width: 100%;
+		margin: 0;
+	}
+	.news-list li{
+		padding: 20px 50px;
+		border-bottom: 1px dotted #ccc;
+	}
+	.news-list li a{
+		color: #777;
+	}
+	.news-list li span:nth-child(1) a{
+		color: #fff;
+	}
+	.news-list li span:nth-child(2){
+		padding-left: 50px;
+	}
+	.news-list li span:nth-child(3){
+		padding-left: 70px;
+	}
+	.news-list .s-title a{
+		width: 80px;
+		height: 20px;
+		background-color: #555;
+		padding: 0px 16px;
+	}
+
+
+
+	/*service==================================================================*/
+	.service{
+		width: 100%;
+	}
+	.service table{
+		margin: auto;
+	}
+	.service_info{
+		text-align: center;
+	}
+	.info1 h5{
+		padding: 50px;
+	}
+	.info2 h5{
+		padding: 50px 0 20px 0;
+	}
+	.service_info a{
+		display: block;
+	}
+
+	.service_info input{
+		margin: 20px 5px;
+	}
+	.service_sign_in a{
+		display: inline-block;
+		text-decoration: none;
+		color: #fff;
+		background-color: #333;
+		padding: 7px 10px;
+		font-size: 14px;
+		color: #fff;
+		line-height: 3em;
+	}
+	.service_sign_in a:hover{
+		box-shadow: 0 0 10px #333;
+	}
+	.service_sign_in span{
+		vertical-align: 2px;
+	}
+	/*social-list ================================================================== */
+
+	.social-list{
+		width: 100%;
+	}
+	.social-list ul{
+		margin: 50px auto;
+	}
+	.social-list ul li{
+		display: inline;
+	}
+	.social-list ul li a{
+		width: 100%;
+		display: inline-block;
+		color: #777;
+		position: relative;
+		margin: 10px;
+		border-bottom: 1px dotted #ccc;
+		padding-bottom: 30px;
+	}
+	.social-list ul li span{
+		display: inline-block;
+		position: absolute;
+		top: 37%;
+		left: 53%;
+		transform: translateY(-37%, -53%);
+	}
+	.social-list img{
+		border-radius: 20px;
+	}
+	/*map ==================================================================*/
+	.google_map{
+		width: 100%;
+	}
+	.google_map iframe{
+		width: 100%;
+		height: 450px;
+	}
+	.map_info{
+		width: 100%;
+	}
+	.map_info h5{
+		margin-bottom: 30px;
+	}
+	.map_info span{
+		display: inline-block;
+		margin-bottom: 30px;
+	}
+	.map_info p{
+		margin-bottom: 30px;
+	}
+
+
+
+	/*footer ================================================================== */
+
+	.footer-list{
+		width: 100%;
+		margin-top: 70px;
+	}
+	.footer-list-item{
+		width: 100%;
+		text-align: center;
+	}
+	.footer-list-item li{
+		padding: 10px 0;
+	}
+	.footer-list-item i{
+		padding-left: 20px;
+	}
+	.footer-list-item ul{
+		margin-top: 20px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+}/*桌機*/
+
+
+
+.vrboxgroup{
+	visibility: hidden;
+}
+.title{
+	visibility: hidden;
+}
+.banner-item{
+	visibility: hidden;
+}
+.product-box{
+	visibility: hidden;
+}
+.info1{
+	visibility: hidden;
+}
+.info2{
+	visibility: hidden;
+}
+.news-list{
+	visibility: hidden;
+}
+.link{
+	visibility: hidden;
+}
+.icon-link{
+	visibility: hidden;
+}
+
+
+

@@ -1,0 +1,516 @@
+
+/*==========font==========*/
+a{
+	text-decoration: none;
+}
+.title{
+	text-align: center;
+}
+.title h2{
+	font-size: 30px;
+	font-family: 'font-l', '微軟正黑體', serif, sans-serif;
+	color: #3c3c3c;
+	padding: 50px 0 15px;
+}
+.title .bottom-line{
+	display: block;
+	width: 30px;
+	height: 3px;
+	background-color: #333;
+	margin: auto;
+}
+.title h6{
+	font-size: 12px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #737373;
+	padding: 15px 0 42px;
+}
+
+/*banner-item-list*/
+
+
+.banner-item-list h3{
+	font-family: 'font-l', '微軟正黑體', serif, sans-serif;
+	font-size: 25px;
+	color: #eee;
+	border-bottom: 1px dotted #ddd;
+}
+.banner-item-list p{
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	font-size: 18px;
+	color: #ddd;
+}
+/*banner_2*/
+
+.pic_info{
+	font-size: 16px;
+	color: #fff;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	text-shadow: 2px 2px 5px #000;
+}
+/*product*/
+.product_top li a{
+	font-size: 16px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #fff;
+	text-shadow: 2px 2px 5px #000;
+}
+.product_info h2{
+	font-size: 50px;
+	font-family: 'font-l', '微軟正黑體', serif, sans-serif;
+	color: #fff;
+	text-shadow: 2px 2px 5px #000;
+}
+.product_info h5{
+	font-size: 30px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #eee;
+	text-shadow: 2px 2px 5px #000;
+}
+.product_info p{
+	font-size: 18px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #eee;
+	text-shadow: 2px 2px 5px #000;
+}
+.price_info1{
+	font-size: 25px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #fff;
+	text-shadow: 2px 2px 5px #000;
+}
+.price_info2{
+	font-size: 25px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #fff;
+	text-shadow: 2px 2px 5px #000;
+}
+.product_info_list ul li{
+	font-size: 15px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #eee;
+	text-shadow: 2px 2px 5px #000;
+}
+.sm_pic p{
+	font-size: 15px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+	color: #fff;
+	text-shadow: 2px 2px 5px #000;
+}
+/*footer-list*/
+.footer-list span{
+	font-size: 18px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+.footer-list .footer-list-item a{
+	color: #777;
+	font-size: 14px;
+	font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+}
+
+
+
+
+@media screen and (max-width:767px){
+
+
+
+
+/*============================= Banner ================================*/
+
+
+	.banner-item h3{
+		line-height: 1em;
+		color: #333;
+	}
+	.banner-item p{
+		display: none;
+	}
+	.banner-list{
+		width: 100%;
+
+	}
+	.banner-item-list{
+		width: 100%;
+		margin-top: 20vh;
+	}
+	.banner-item a{
+		display: block;
+		width: 100%;
+		height: 300px;
+		text-align: center;
+		opacity: 1;
+		transition: 1s;
+	}
+	.box1{
+		background: url(../images/photo_list_1.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box2{
+		background: url(../images/photo_list_2.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box3{
+		background: url(../images/photo_list_3.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box4{
+		background: url(../images/photo_list_4.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box5{
+		background: url(../images/photo_list_5.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+	.box6{
+		background: url(../images/photo_list_6.png) no-repeat;
+		background-size: 100%;
+		background-position: center center;
+	}
+
+
+	/*banner_2*/
+	.banner_2_pic{
+		padding-top: 50px;
+		width: 100%;
+	}
+	.pic_info p{	
+		width: 80%;
+	}
+	.banner_2{
+		min-height: 1100px;
+	}
+	/*product_info*/
+	.product_info h2{
+		padding: 50px 0px;
+	}
+	.product_info h5{
+		padding: 2%;
+	}
+	.product_info p{
+		padding: 2%;
+	}
+	/*footer ================================================================== */
+
+	.footer-list{
+		width: 100%;
+		margin-top: 70px;
+	}
+	.footer-list-item{
+		width: 100%;
+		text-align: center;
+	}
+	.footer-list-item li{
+		padding: 10px 0;
+	}
+	.footer-list-item i{
+		padding-left: 20px;
+	}
+	.footer-list-item ul{
+		margin-top: 20px;
+	}
+	.footer-list-item span{
+		display: block;
+		margin-top: 50px;
+	}
+
+
+}
+
+
+/*Desktop computer*/
+@media screen and (min-width:768px){
+
+	/*============================= Nav ================================*/
+	.navigation{
+		width: 100%;
+		text-align: center;
+		min-height: 80px;
+		background-color: #202020;
+		position: fixed;
+		z-index: 100;
+		margin-right: -15px;
+		margin-left: -15px;
+	}
+	.logo{
+		float: left;
+		width: 200px;
+	}
+	.logo img{
+		width: 100%;
+		height: 80px;
+	}
+	.menu ul{
+		margin: 0;
+	}
+	.menu ul li{
+		float: left;
+		width: 10.5%;
+	}
+	.menu ul li i{
+		font-size: 20px;
+		vertical-align: middle;
+		color: #fff;
+		padding-right: 5px;
+	}
+	.menu ul li a{
+		width: 100%;
+		display: inline-block;
+		line-height: 80px;
+		font-size: 14px;
+		color: #ddd;
+		font-family: 'font-m', '微軟正黑體', serif, sans-serif;
+		letter-spacing: 2px;
+		position: relative;
+	}
+	/*============================= Nav Hover ================================*/
+
+	.menu ul li a:hover{
+		color: #fff;
+	}
+	.menu li > a:after{		/*直接子元素的所有a*/
+			content: '';
+			display: block;
+			width: 100%;
+			height: 3px;
+			position: absolute;
+			top: 80px;
+			left: 0;
+			background-color: #fff;
+			opacity: 0;		/*透明*/
+			transform: scale(0);	/*縮放*/
+			transition: .2s ease-in;	/*慢到快*/
+		}
+	.menu li:hover > a:after{
+			transform: scale(1);
+			opacity: 1;
+		}
+
+	/*============================= Banner List================================*/
+	.banner-item-list h3{
+		padding: 10%;
+		margin: 0 10%;
+	}
+	.banner-item-list p{
+		padding: 10%;
+		line-height: 2em;
+		letter-spacing: 5px;
+	}
+
+
+
+
+	.banner-list{
+		width: 100%;
+		padding-top: 100px;
+	}
+	.banner-item-list{
+		width: 100%;
+	}
+	.banner-item a{
+		display: block;
+		width: 100%;
+		height: 400px;
+		text-align: center;
+		background-color: rgba(0, 0, 0, .7);
+		margin-bottom: 30px;
+		opacity: 0;
+		transition: 1s;
+	}
+	.banner-item a:hover{
+		opacity: 1;
+	}
+	.box1{
+		background: url(../images/photo_list_1.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box2{
+		background: url(../images/photo_list_2.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box3{
+		background: url(../images/photo_list_3.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box4{
+		background: url(../images/photo_list_4.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box5{
+		background: url(../images/photo_list_5.png);
+		background-size: cover;
+		background-position: center center;
+	}
+	.box6{
+		background: url(../images/photo_list_6.png);
+		background-size: cover;
+		background-position: center center;
+	}
+
+
+	/*banner_2*/
+	.banner_2_pic{
+		margin: 15% 0px 0px 15%;
+		width: 65%;
+	}
+	.pic_info ul li{
+		border-left: 2px solid #fff;
+	}
+	.pic_info p{	
+		width: 30%;
+	}
+	.banner_2{
+		min-height: 2000px;
+	}
+	/*product_info*/
+	.product_info h2{
+		padding: 2%;
+	}
+	.product_info h5{
+		padding: 2%;
+	}
+	.product_info p{
+		padding: 2%;
+	}
+	
+
+	/*footer ================================================================== */
+
+	.footer-list{
+		width: 100%;
+		margin-top: 70px;
+	}
+	.footer-list-item{
+		width: 100%;
+		text-align: center;
+	}
+	.footer-list-item li{
+		padding: 10px 0;
+	}
+	.footer-list-item i{
+		padding-left: 20px;
+	}
+	.footer-list-item ul{
+		margin-top: 20px;
+	}
+
+
+
+
+}
+
+
+
+
+
+/*banner_2*/
+.banner_2{
+	width: 100%;
+	background: url(../images/page2/index_0.jpeg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.banner_pic{
+	overflow: hidden;
+}
+.banner_2_pic img{
+	display: block;
+	width: 100%;
+}
+.banner_2_pic a{
+	width: 100%;
+	display: block;
+	transition: .7s;
+	background-color: rgba(0, 0, 0, .7);
+	cursor: default;
+}
+
+.banner_2_pic a:hover{
+	transform: scale(1.1);
+}
+.pic_info{
+	float: left;
+	margin: 0px 0px 0px 15%;
+}
+.pic_info p{	
+	float: left;
+	padding: 20px;
+	margin-top: 30px;
+	line-height: 2em;
+}
+.pic_info ul{
+	margin-top: 30px;
+	float: left;
+	line-height: 2em;
+}
+
+.pic_info ul li{
+	padding: 10px;
+}
+.pic_info i{
+	padding-right: 20px;
+}
+
+
+
+/*product_info*/
+
+
+
+
+.product_info{
+	margin: 0px 0px 0px 15%;
+}
+
+.product_info_list ul{
+	margin-bottom: 50px;
+}
+.product_info_list ul li{
+	margin: 1% 0px 1% 4%;
+	list-style-type: square;
+}
+.price_info1{
+	padding: 2% 0px 2% 2%;
+}
+.price_info2{
+	padding: 2% 0px;
+}
+.big_pic img{
+	width: 100%;
+}
+.sm_pic a{
+	display: inline-block;
+	margin: auto;
+	width: 25%;
+	text-align: center;	
+}
+.sm_pic p{
+	padding-bottom: 10px;
+}
+
+.sm_pic img{
+	width: 100%;
+}
+.sm_pic a:nth-child(1){border: 5px solid #968E7E;}
+.sm_pic a:nth-child(2){border: 5px solid #7D8F77;}
+.sm_pic a:nth-child(3){border: 5px solid #333;}
+
+.choses select{
+	font-size: 12px;
+	margin-top: 25px;
+	margin-left: 2%;
+	background-color: #333;
+	color: #fff;
+
+}
